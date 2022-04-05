@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NguyenQuangHuy_1911505310224_GK/1.0.0": {
+        "runtime": {
+          "NguyenQuangHuy_1911505310224_GK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenQuangHuy_1911505310224_GK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
