@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Animal_NguyenQuangHuy/1.0.0": {
+        "runtime": {
+          "Animal_NguyenQuangHuy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Animal_NguyenQuangHuy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

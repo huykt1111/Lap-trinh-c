@@ -31,7 +31,7 @@ namespace DiemDanh_NguyenQuangHuy_26_4
             if (delta224(a224, b224, c224) > 0)
             {
                 Console.WriteLine("Phuong trinh co hai nghiem : ");
-                Console.WriteLine("X1 = {0}", ((-b224 - Math.Sqrt(delta224(a224,b224,c224)) / 2 * a224)));
+                Console.WriteLine("X1 = {0}", ((-b224 - Math.Sqrt(delta224(a224,b224,c224))) / 2 * a224));
                 Console.WriteLine("X2 = {0}", ((-b224 + Math.Sqrt(delta224(a224, b224, c224))) / 2 * a224));
 
             }
