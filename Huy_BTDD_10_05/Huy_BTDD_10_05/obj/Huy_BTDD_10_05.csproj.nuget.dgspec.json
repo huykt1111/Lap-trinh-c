@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj": {}
+    "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Lap-trinh-c\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj": {}
   },
   "projects": {
-    "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj": {
+    "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Lap-trinh-c\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj",
+        "projectUniqueName": "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Lap-trinh-c\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj",
         "projectName": "Huy_BTDD_10_05",
-        "projectPath": "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj",
+        "projectPath": "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Lap-trinh-c\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\Huy_BTDD_10_05.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\obj\\",
+        "outputPath": "D:\\My file\\Desktop\\Workspace\\DaiHoc\\Nam3_Ky2\\Lập trình C#\\LapTrinhC-\\Lap-trinh-c\\Huy_BTDD_10_05\\Huy_BTDD_10_05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -77,6 +77,32 @@ namespace Huy_BTDD_10_05
             }
         }
 
+        static int Timsolanxuathien(int[] a)
+        {
+            SXTD(a);
+            int max = 0;
+            int dem = 1;
+            for (int i = 0; i < 10; i++)
+            {
+                if (a[i] == a[i + 1])
+                {
+                    dem++;
+                    if (dem > max)
+                    {
+                        max = dem;
+                    }
+
+                }
+                else
+                {
+
+                    dem = 1;
+                }
+            }
+            return max;
+
+        }
+
         static void Main(string[] args)
         {
             int[] a224 = new int[10];
@@ -89,6 +115,8 @@ namespace Huy_BTDD_10_05
             Console.WriteLine("Mang theo thu tu tang dan la:");
             SXTD(a224);
             xuat(a224);
+            Console.WriteLine("So lan xuat hien nhieu nhat trong mang: ", Timsolanxuathien(a224));
+            Console.ReadKey();
         }
     }
 }
